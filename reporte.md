@@ -19,36 +19,150 @@ lang: es
 \newpage
 # LED AC Rectificador
 
-## Huevos
+## Introducción
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+## Objetivo
 
-![Algo](media/img.png)
+## Marco teórico
+
+## Materiales
+
+## Esquemático
+
+## Resultados
 
 \newpage
 # SCR
 
+## Introducción
+
+## Objetivo
+
+## Marco teórico
+
+## Materiales
+
+## Esquemático
+
+## Resultados
+
 \newpage
 # On Delay 120V
+
+## Introducción
+
+## Objetivo
+
+## Marco teórico
+
+## Materiales
+
+## Esquemático
+
+## Resultados
 
 \newpage
 # Enclavamiento Electromagnético
 
+## Introducción
+
+## Objetivo
+
+## Marco teórico
+
+## Materiales
+
+## Esquemático
+
+## Resultados
+
 \newpage
 # Arranque, Reversa y Paro con Motor Monofásico
+
+## Introducción
+
+## Objetivo
+
+## Marco teórico
+
+## Materiales
+
+## Esquemático
+
+## Resultados
 
 \newpage
 # Chopper
 
+## Introducción
+
+## Objetivo
+
+## Marco teórico
+
+## Materiales
+
+## Esquemático
+
+## Resultados
+
 \newpage
 # Arranque, Reversa y Paro con Motor de Lavadora
+
+## Introducción
+
+## Objetivo
+
+## Marco teórico
+
+## Materiales
+
+## Esquemático
+
+## Resultados
 
 \newpage
 # Dimmer con Triac
 
+## Introducción
+
+## Objetivo
+
+## Marco teórico
+
+## Materiales
+
+## Esquemático
+
+## Resultados
+
 \newpage
 # Dimmer Doble con SCR
 
+## Introducción
+
+## Objetivo
+
+## Marco teórico
+
+## Materiales
+
+## Esquemático
+
+## Resultados
+
 \newpage
 # Flyback
+
+## Introducción
+
+## Objetivo
+
+## Marco teórico
+
+## Materiales
+
+## Esquemático
+
+## Resultados
 
