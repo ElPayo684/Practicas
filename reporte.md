@@ -1,11 +1,12 @@
 ---
 title: Prácticas de Electrónica de Potencia
-author:
+autores:
 - Angel Esteban Arroyo Ciau
 - David Alberto Huchim Sosa
 - Wilberth Eduardo Lopez Gomez
 - Felipe Sánchez Soberanis
-date: 8 de diciembre de 2022
+Porfesor: Wily F. Coba García
+Fecha de entrega: 8 de diciembre de 2022
 
 header-includes: |
     \usepackage{fancyhdr}
